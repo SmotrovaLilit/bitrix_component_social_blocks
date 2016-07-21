@@ -4,9 +4,7 @@
 ### Пример использования ###
 
 
-```
-#!php
-
+```php
 $APPLICATION->IncludeComponent(
 	"ws:social.block.links",
 	"",
